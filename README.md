@@ -140,7 +140,7 @@ https://github.com/Srujanaaddanki/tableau-Social-Media-Project
 
 ## 📌 Dataset Source
 
-https://www.kaggle.com/datasets/bhadramohit/social-media-usage-dataset
+https://www.kaggle.com/datasets/bhadramohit/social-media-usage-datasetapplications
 
 ---
 
