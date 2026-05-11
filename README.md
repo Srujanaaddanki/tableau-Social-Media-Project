@@ -134,7 +134,7 @@ https://github.com/Srujanaaddanki/tableau-Social-Media-Project
 
 ## 📌 Tableau Public Dashboard
 
-https://public.tableau.com/app/profile/srujana.addanki/viz/SocialMediaBehavioralAnalyticsDashboard/D2
+https://public.tableau.com/app/profile/srujana.addanki/viz/SocialMediaBehavioralAnalyticsDashboard/Landing_Page?publish=yes
 
 ---
 
